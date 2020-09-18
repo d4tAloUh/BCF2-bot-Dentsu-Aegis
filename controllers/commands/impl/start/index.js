@@ -31,7 +31,7 @@ bot.command('start',
                     ],
                     [
                         m.urlButton(
-                            '✉️Поспілкуватись з представником    ',
+                            '✉️ Поспілкуватись з представником    ',
                             't.me/alena_zakharchenko'
                         )
                     ],

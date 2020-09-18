@@ -38,7 +38,7 @@ bot.action('ActionHandlerWorkWithUs',
                     ],
                     [
                         m.callbackButton(
-                            'Junior HRManager',
+                            'Junior HR Manager',
                             'ActionHandlerWorkJuniorHRManager'
                         ),
                     ],
