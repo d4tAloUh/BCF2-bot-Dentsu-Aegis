@@ -1,0 +1,33 @@
+{
+  "name": "bcf2-bot-bakertilly",
+  "version": "1.0.0",
+  "description": "BigCareerFest.Online Bot for Baker Tilly company",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "telegraf": "latest",
+    "chai": "latest",
+    "dotenv": "^8.2.0",
+    "axios": "^0.20.0",
+    "universal-analytics": "^0.4.23",
+    "cross-env": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "npm install && cross-env NODE_ENV=production NODE_PRODUCTION_PLATFORM=heroku node index.js",
+    "start:dev": "set NODE_ENV=development&& set NODE_PRODUCTION_PLATFORM=localhost&& node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danorel/BCF2-Bot-BakerTilly.git"
+  },
+  "author": "Danyil Orel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danorel/BCF2-Bot-BakerTilly/issues"
+  },
+  "homepage": "https://github.com/danorel/BCF2-Bot-BakerTilly#readme"
+}
