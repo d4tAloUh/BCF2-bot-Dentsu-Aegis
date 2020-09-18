@@ -83,7 +83,7 @@ bot.action('ActionHandlerWorkJuniorAccount',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
                     [
@@ -116,7 +116,7 @@ bot.action('ActionHandlerWorkCreativeCopywriter',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
                     [
@@ -149,7 +149,7 @@ bot.action('ActionHandlerWorkJuniorBookKeeper',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
                     [
@@ -182,7 +182,7 @@ bot.action('ActionHandlerWorkJuniorHRManager',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
                     [
@@ -215,7 +215,7 @@ bot.action('ActionHandlerWorkJuniorSEOSpecialist',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
                     [
@@ -248,7 +248,7 @@ bot.action('ActionHandlerWorkGraphicDesigner',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
                     [

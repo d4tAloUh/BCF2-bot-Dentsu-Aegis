@@ -71,7 +71,7 @@ bot.action('ActionHandlerGoBack',
                     [
                         m.urlButton(
                             '✉️Поспілкуватись з представником    ',
-                            't.me/test'
+                            't.me/alena_zakharchenko'
                         )
                     ],
 

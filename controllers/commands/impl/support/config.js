@@ -1,3 +1,3 @@
 module.exports = {
-    msg: `З/'явилися питання? Пиши сюди - @ColaHR_bot`
+    msg: `З/'явилися питання? Пиши сюди - @alena_zakharchenko`
 };
