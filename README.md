@@ -3,9 +3,9 @@ BigCareerFest.Online Bot for Dentsu Aegis company
 
 Tasks to run the application:
 
-1) Create the /environment directory in the root of the project.
-2_ Create the /development and /production sub-directories in the /environment directory.
-3_ In /development directory, create the .env file and insert there next configurations:
+1) Create the /environment directory in the root of the project.<br/>
+2_ Create the /development and /production sub-directories in the /environment directory.<br/>
+3_ In /development directory, create the .env file and insert there next configurations:<br/>
 ```
 # Server configurations
 NODE_ENV=development
@@ -16,7 +16,7 @@ PORT=5167
 BOT_TOKEN=TELEGRAM_BOT_TOKEN
 BOT_USERNAME=@TELEGRAM_BOT_USERNAME
 ```
-4) In /production directory, create the .env file and insert there next configurations
+4) In /production directory, create the .env file and insert there next configurations.<br/>
 ```
 # Server configurations
 NODE_ENV=production
@@ -30,6 +30,5 @@ BOT_USERNAME=@TELEGRAM_BOT_USERNAME
 # Heroku configurations
 HEROKU_URL=https://phatic-dialogue-bot.herokuapp.com
 ```
-5) Clone the project, Open it in your favorite IDE. To start the application in development mode, run:
-npm run start:dev
+5) Clone the project, Open it in your favorite IDE. To start the application in development mode, run: ```npm run start:dev```
 To deploy the application to the production, push your changes to master. Heroku was configured to track changes on the master branch and to re-build after some permutations.
